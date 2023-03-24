@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<?charles serialisation-version='2.0' ?>
+<breakpoints>
+  <toolEnabled>true</toolEnabled>
+  <breakpoints>
+    <breakpoint>
+      <location>
+        <protocol>https</protocol>
+        <host>www.youtube.com</host>
+        <path>/</path>
+      </location>
+      <request>false</request>
+      <response>true</response>
+      <enabled>true</enabled>
+    </breakpoint>
+  </breakpoints>
+</breakpoints>

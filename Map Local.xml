@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<?charles serialisation-version='2.0' ?>
+<mapLocal>
+  <toolEnabled>true</toolEnabled>
+  <mappings>
+    <mapLocalMapping>
+      <sourceLocation>
+        <protocol>https</protocol>
+        <host>elmundo.es</host>
+        <path>/</path>
+      </sourceLocation>
+      <dest>C:\Users\Bugshot\Desktop\TESTING\photo_2023-03-09_11-52-21.jpg</dest>
+      <enabled>true</enabled>
+      <caseSensitive>true</caseSensitive>
+    </mapLocalMapping>
+  </mappings>
+</mapLocal>

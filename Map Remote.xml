@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<?charles serialisation-version='2.0' ?>
+<map>
+  <toolEnabled>true</toolEnabled>
+  <mappings>
+    <mapMapping>
+      <sourceLocation>
+        <protocol>https</protocol>
+        <host>youtube.com</host>
+        <path>/</path>
+      </sourceLocation>
+      <destLocation>
+        <protocol>https</protocol>
+        <host>elmundo.es</host>
+        <path>/</path>
+      </destLocation>
+      <preserveHostHeader>true</preserveHostHeader>
+      <enabled>true</enabled>
+    </mapMapping>
+  </mappings>
+</map>
